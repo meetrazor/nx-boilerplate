@@ -2,7 +2,9 @@
   "name": "@boilerplate/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "nest": "nx serve nest"
+  },
   "private": true,
   "dependencies": {
     "@nestjs/common": "^10.0.2",
